@@ -27,7 +27,7 @@ class _ProductsScreenState extends State<ProductsScreen> {
       description: 'hoddie rojo unisex',
       price: 350.00,
       color: const Color(0xFF7C3AED),
-      imageAsset: 'assets/images/hoodie.jpg',
+      imageAsset: 'assets/images/hoddie.jpg',
     ),
     Product(
       id: '3',

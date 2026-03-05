@@ -326,7 +326,6 @@ class _PaymentDataScreenState extends State<PaymentDataScreen> {
     );
   }
 
-  // ── Helpers ──────────────────────────────────────────────────────────────
   Widget _buildLabel(String text) => Text(text,
       style: const TextStyle(
           fontSize: 14,

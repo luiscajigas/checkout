@@ -212,7 +212,6 @@ class _PaymentScreenState extends State<PaymentScreen> {
       ),
       child: Stack(
         children: [
-          // Big decorative "5"
           Positioned(
             right: -10,
             top: -20,
@@ -234,7 +233,6 @@ class _PaymentScreenState extends State<PaymentScreen> {
                     color: Colors.white,
                     borderRadius: BorderRadius.circular(10),
                   ),
-                  // Replace with Image.asset('assets/images/brand_logo.png')
                   child: ClipRRect(
                     borderRadius: BorderRadius.circular(10),
                     child: Image.asset(
